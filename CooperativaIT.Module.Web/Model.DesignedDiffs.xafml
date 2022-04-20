@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <ActionDesign>
+    <Actions>
+      <Action Id="Logon" ImageName="" PaintStyle="Default" />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="CooperativaIT.Module.Clases.DetallePagos" DefaultListViewShowAutoFilterRow="True" DefaultListViewNewItemRowPosition="None" />
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="14.2.4.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="14.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="EncabPagos_DetallePagos_ListView" ShowAutoFilterRow="False" Criteria="" Filter="" NewItemRowPosition="Top">
+      <Columns>
+        <ColumnInfo Id="correla" SortIndex="0" SortOrder="Ascending" />
+      </Columns>
+      <SplitLayout ViewsOrder="DetailViewListView" />
+    </ListView>
+  </Views>
+</Application>

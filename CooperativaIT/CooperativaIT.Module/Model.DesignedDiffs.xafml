@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CooperativaIT" Logo="ExpressAppLogo">
+  <ActionDesign>
+    <Actions>
+      <Action Id="Logon" ImageName="" PaintStyle="Default" ImageMode="UseActionImage" />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="DevExpress.Xpo.PersistentBase" DefaultListViewShowAutoFilterRow="True" />
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="14.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="DetallePagos_ListView">
+      <Columns>
+        <ColumnInfo Id="correla" SortIndex="0" SortOrder="Ascending" Width="66" ImmediatePostData="False" />
+      </Columns>
+    </ListView>
+    <ListView Id="DetallePagos_LookupListView" ShowAutoFilterRow="True">
+      <Columns>
+        <ColumnInfo Id="correla" SortIndex="0" SortOrder="Descending" />
+      </Columns>
+    </ListView>
+    <DetailView Id="PersistentBase_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True" />
+    </DetailView>
+    <ListView Id="PersistentBase_ListView" ShowAutoFilterRow="True" />
+    <DetailView Id="XPBaseObject_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True" />
+    </DetailView>
+    <DetailView Id="XPCustomObject_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True" />
+    </DetailView>
+    <DetailView Id="XPLiteObject_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True" />
+    </DetailView>
+    <DetailView Id="XPObjectType_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True" />
+    </DetailView>
+    <DetailView Id="XPWeakReference_DetailView" FreezeLayout="True">
+      <Layout IsNewNode="True" Removed="True" />
+    </DetailView>
+    <ListView Id="XPWeakReference_LookupListView" ShowAutoFilterRow="True" NewItemRowPosition="Top" FreezeColumnIndices="True" />
+  </Views>
+</Application>

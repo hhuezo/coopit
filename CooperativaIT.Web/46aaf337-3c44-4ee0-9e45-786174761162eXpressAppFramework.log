@@ -1,0 +1,296 @@
+31.01.19 12:09:43.091	kfzv1rh2zsnwqybgcgxvqb4i	================================================================================
+31.01.19 12:09:43.139	kfzv1rh2zsnwqybgcgxvqb4i	Trace Log for 95b87f04-18-131934317813569748 is started
+31.01.19 12:09:43.141	kfzv1rh2zsnwqybgcgxvqb4i	================================================================================
+31.01.19 12:09:43.143	kfzv1rh2zsnwqybgcgxvqb4i	System Environment
+	OS Version: Microsoft Windows NT 6.2.9200.0
+	.Net Framework Versions: v2.0.50727, v4.0.30319
+
+	CLR Version: 4.0.30319.42000
+	eXpressApp Version: 14.2.4.0
+Application config
+	Modules=
+	ErrorReportEmail=
+	ErrorReportEmailServer=
+	SimpleErrorReportPage=
+	RichErrorReportPage=Error.aspx
+	EnableDiagnosticActions=False
+31.01.19 12:09:43.241	kfzv1rh2zsnwqybgcgxvqb4i		session.Timeout: 20
+31.01.19 12:09:43.241	kfzv1rh2zsnwqybgcgxvqb4i		SessionID: kfzv1rh2zsnwqybgcgxvqb4i
+31.01.19 12:09:43.243	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:43.245	kfzv1rh2zsnwqybgcgxvqb4i	Initialize Modules Manager
+31.01.19 12:09:43.246	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:43.247	kfzv1rh2zsnwqybgcgxvqb4i	
+31.01.19 12:09:43.255	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+Loaded assemblies
+	A_509baab7_1a28_4d68_98e9_e5d48f6de0a6, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	App_global.asax.afg94xzr, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=C:\Users\macosta\AppData\Local\Temp\Temporary ASP.NET Files\root\49be77cb\ae045f73\App_global.asax.afg94xzr.dll
+	App_Web_hkbtv5xy, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=C:\Users\macosta\AppData\Local\Temp\Temporary ASP.NET Files\root\49be77cb\ae045f73\App_Web_hkbtv5xy.dll
+	CooperativaIT.Module, Version=1.0.6970.21889, Culture=neutral, PublicKeyToken=null, Location=C:\Users\macosta\AppData\Local\Temp\Temporary ASP.NET Files\root\49be77cb\ae045f73\assembly\dl3\eda45883\4bda3321_90b9d401\CooperativaIT.Module.dll
+	CooperativaIT.Module.Web, Version=1.0.6970.21889, Culture=neutral, PublicKeyToken=null, Location=C:\Users\macosta\AppData\Local\Temp\Temporary ASP.NET Files\root\49be77cb\ae045f73\assembly\dl3\44efce7b\60fcb121_90b9d401\CooperativaIT.Module.Web.dll
+	CooperativaIT.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null, Location=C:\Users\macosta\AppData\Local\Temp\Temporary ASP.NET Files\root\49be77cb\ae045f73\assembly\dl3\069b60ec\66974722_90b9d401\CooperativaIT.Web.dll
+	DevExpress.Data.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Data.v14.2.dll
+	DevExpress.ExpressApp.AuditTrail.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.AuditTrail.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.AuditTrail.v14.2.dll
+	DevExpress.ExpressApp.ConditionalAppearance.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ConditionalAppearance.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.ConditionalAppearance.v14.2.dll
+	DevExpress.ExpressApp.FileAttachment.Web.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.FileAttachment.Web.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.FileAttachment.Web.v14.2.dll
+	DevExpress.ExpressApp.Images.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Images.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.Images.v14.2.dll
+	DevExpress.ExpressApp.ReportsV2.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v14.2.dll
+	DevExpress.ExpressApp.ReportsV2.Web.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Web.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Web.v14.2.dll
+	DevExpress.ExpressApp.Security.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v14.2.dll
+	DevExpress.ExpressApp.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.v14.2.dll
+	DevExpress.ExpressApp.Validation.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v14.2.dll
+	DevExpress.ExpressApp.Web.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Web.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.Web.v14.2.dll
+	DevExpress.ExpressApp.Xpo.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v14.2.dll
+	DevExpress.Persistent.Base.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Persistent.Base.v14.2.dll
+	DevExpress.Persistent.BaseImpl.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v14.2.dll
+	DevExpress.Printing.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v14.2.Core\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Printing.v14.2.Core.dll
+	DevExpress.Utils.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Utils.v14.2.dll
+	DevExpress.Utils.v14.2.UI, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v14.2.UI\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Utils.v14.2.UI.dll
+	DevExpress.Web.ASPxThemes.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Web.ASPxThemes.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Web.ASPxThemes.v14.2.dll
+	DevExpress.Web.ASPxTreeList.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Web.ASPxTreeList.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Web.ASPxTreeList.v14.2.dll
+	DevExpress.Web.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Web.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Web.v14.2.dll
+	DevExpress.Xpo.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.Xpo.v14.2.dll
+	DevExpress.XtraPrinting.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.XtraPrinting.v14.2.dll
+	DevExpress.XtraReports.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v14.2\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.XtraReports.v14.2.dll
+	DevExpress.XtraReports.v14.2.Extensions, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v14.2.Extensions\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.XtraReports.v14.2.Extensions.dll
+	DevExpress.XtraReports.v14.2.Web, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v14.2.Web\v4.0_14.2.4.0__b88d1754d700e49a\DevExpress.XtraReports.v14.2.Web.dll
+	Microsoft.Build.Utilities.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll
+	Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll
+	Microsoft.JScript, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.JScript\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.JScript.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.Activities.dll
+	System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll
+	System.Data.Services.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll
+	System.IdentityModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.IdentityModel\v4.0_4.0.0.0__b77a5c561934e089\System.IdentityModel.dll
+	System.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.resources.dll
+	System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll
+	System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.ServiceModel.Activation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activation\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activation.dll
+	System.ServiceModel.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activities.dll
+	System.ServiceModel.Internals, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll
+	System.ServiceModel.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Web\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Web.dll
+	System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+	System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll
+	System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll
+	System.Web.DynamicData, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.DynamicData\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.DynamicData.dll
+	System.Web.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Entity\v4.0_4.0.0.0__b77a5c561934e089\System.Web.Entity.dll
+	System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Extensions\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.Extensions.dll
+	System.Web.Mobile, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Mobile\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Mobile.dll
+	System.Web.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.RegularExpressions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll
+	System.Web.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.resources\v4.0_4.0.0.0_es_b03f5f7f11d50a3a\System.Web.resources.dll
+	System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.WorkflowServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.WorkflowServices\v4.0_4.0.0.0__31bf3856ad364e35\System.WorkflowServices.dll
+	System.Xaml.Hosting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml.Hosting\v4.0_4.0.0.0__31bf3856ad364e35\System.Xaml.Hosting.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll
+	WebDev.WebHost40, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\WebDev.WebHost40\v4.0_10.0.0.0__b03f5f7f11d50a3a\WebDev.WebHost40.dll
+31.01.19 12:09:43.305	kfzv1rh2zsnwqybgcgxvqb4i	SetupModules
+31.01.19 12:09:43.352	kfzv1rh2zsnwqybgcgxvqb4i	Customize TypesInfo
+31.01.19 12:09:44.086	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:44.089	kfzv1rh2zsnwqybgcgxvqb4i	->GetPopupWindowParams
+31.01.19 12:09:44.090	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+31.01.19 12:09:44.092	kfzv1rh2zsnwqybgcgxvqb4i		ID: 16621e35-8862-4c87-948c-5b041cbb63b8
+31.01.19 12:09:44.093	kfzv1rh2zsnwqybgcgxvqb4i		Category: Unspecified
+31.01.19 12:09:44.104	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:44.107	kfzv1rh2zsnwqybgcgxvqb4i	<- GetPopupWindowParams
+31.01.19 12:09:44.325	kfzv1rh2zsnwqybgcgxvqb4i	Generate default Model for Action containers
+31.01.19 12:09:52.024	kfzv1rh2zsnwqybgcgxvqb4i	'Password' property editor: new value is '*******'
+31.01.19 12:09:52.027	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.029	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:09:52.030	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SimpleAction
+31.01.19 12:09:52.032	kfzv1rh2zsnwqybgcgxvqb4i		ID: Logon
+31.01.19 12:09:52.033	kfzv1rh2zsnwqybgcgxvqb4i		Category: PopupActions
+31.01.19 12:09:52.034	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.Web.WebLogonController
+31.01.19 12:09:52.035	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Log On
+31.01.19 12:09:52.036	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: True
+31.01.19 12:09:52.037	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 1
+31.01.19 12:09:52.038	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: DevExpress.ExpressApp.Security.AuthenticationStandardLogonParameters
+31.01.19 12:09:52.039	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.041	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:09:52.042	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+31.01.19 12:09:52.044	kfzv1rh2zsnwqybgcgxvqb4i		ID: 16621e35-8862-4c87-948c-5b041cbb63b8
+31.01.19 12:09:52.045	kfzv1rh2zsnwqybgcgxvqb4i		Category: Unspecified
+31.01.19 12:09:52.047	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.048	kfzv1rh2zsnwqybgcgxvqb4i	Start logon process
+31.01.19 12:09:52.049	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.050	kfzv1rh2zsnwqybgcgxvqb4i	Checking Compatibility
+31.01.19 12:09:52.052	kfzv1rh2zsnwqybgcgxvqb4i		ConnectionString: Data Source=INFOR-05;Initial Catalog=CooperativaIT;User ID=sa;
+31.01.19 12:09:52.073	kfzv1rh2zsnwqybgcgxvqb4i	Check App Name Compatibility
+31.01.19 12:09:52.076	kfzv1rh2zsnwqybgcgxvqb4i	Check stored module versions against the versions of the loaded modules
+31.01.19 12:09:52.077	kfzv1rh2zsnwqybgcgxvqb4i	module 'SystemModule' (DevExpress.ExpressApp.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.077	kfzv1rh2zsnwqybgcgxvqb4i	module 'SystemAspNetModule' (DevExpress.ExpressApp.Web.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.078	kfzv1rh2zsnwqybgcgxvqb4i	module 'AuditTrailModule' (DevExpress.ExpressApp.AuditTrail.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.080	kfzv1rh2zsnwqybgcgxvqb4i	module 'ConditionalAppearanceModule' (DevExpress.ExpressApp.ConditionalAppearance.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.081	kfzv1rh2zsnwqybgcgxvqb4i	module 'ReportsModuleV2' (DevExpress.ExpressApp.ReportsV2.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.082	kfzv1rh2zsnwqybgcgxvqb4i	module 'ValidationModule' (DevExpress.ExpressApp.Validation.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.083	kfzv1rh2zsnwqybgcgxvqb4i	module 'CooperativaITModule' (CooperativaIT.Module). Local version: 1.0.6970.21889, Version on DB: 1.0.6970.21700
+31.01.19 12:09:52.084	kfzv1rh2zsnwqybgcgxvqb4i	DatabaseIsOld
+31.01.19 12:09:52.089	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.093	kfzv1rh2zsnwqybgcgxvqb4i	UpdateDB
+31.01.19 12:09:52.095	kfzv1rh2zsnwqybgcgxvqb4i		ConnectionString: Data Source=INFOR-05;Initial Catalog=CooperativaIT;User ID=sa;
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	Check App Name Compatibility
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	Check stored module versions against the versions of the loaded modules
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	module 'SystemModule' (DevExpress.ExpressApp.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	module 'SystemAspNetModule' (DevExpress.ExpressApp.Web.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	module 'AuditTrailModule' (DevExpress.ExpressApp.AuditTrail.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	module 'ConditionalAppearanceModule' (DevExpress.ExpressApp.ConditionalAppearance.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	module 'ReportsModuleV2' (DevExpress.ExpressApp.ReportsV2.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	module 'ValidationModule' (DevExpress.ExpressApp.Validation.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	module 'CooperativaITModule' (CooperativaIT.Module). Local version: 1.0.6970.21889, Version on DB: 1.0.6970.21700
+31.01.19 12:09:52.098	kfzv1rh2zsnwqybgcgxvqb4i	DatabaseIsOld
+31.01.19 12:09:52.131	kfzv1rh2zsnwqybgcgxvqb4i	Module: SystemModule. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.131	kfzv1rh2zsnwqybgcgxvqb4i	Module: SystemAspNetModule. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.131	kfzv1rh2zsnwqybgcgxvqb4i	Module: AuditTrailModule. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.131	kfzv1rh2zsnwqybgcgxvqb4i	Module: ConditionalAppearanceModule. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.131	kfzv1rh2zsnwqybgcgxvqb4i	Module: ReportsModuleV2. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.131	kfzv1rh2zsnwqybgcgxvqb4i	Module: ValidationModule. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.133	kfzv1rh2zsnwqybgcgxvqb4i	Module: CooperativaITModule. Old version: 1.0.6970.21700. New version: 1.0.6970.21889
+31.01.19 12:09:52.133	kfzv1rh2zsnwqybgcgxvqb4i	Module: FileAttachmentsAspNetModule. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.133	kfzv1rh2zsnwqybgcgxvqb4i	Module: ReportsAspNetModuleV2. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.134	kfzv1rh2zsnwqybgcgxvqb4i	Module: CooperativaITAspNetModule. Old version: 1.0.6970.21700. New version: 1.0.6970.21889
+31.01.19 12:09:52.134	kfzv1rh2zsnwqybgcgxvqb4i	Module: SecurityModule. Old version: 14.2.4.0. New version: 14.2.4.0
+31.01.19 12:09:52.137	kfzv1rh2zsnwqybgcgxvqb4i	Check App Name Compatibility
+31.01.19 12:09:52.138	kfzv1rh2zsnwqybgcgxvqb4i	Check stored module versions against the versions of the loaded modules
+31.01.19 12:09:52.138	kfzv1rh2zsnwqybgcgxvqb4i	module 'SystemModule' (DevExpress.ExpressApp.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.139	kfzv1rh2zsnwqybgcgxvqb4i	module 'SystemAspNetModule' (DevExpress.ExpressApp.Web.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.140	kfzv1rh2zsnwqybgcgxvqb4i	module 'AuditTrailModule' (DevExpress.ExpressApp.AuditTrail.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.141	kfzv1rh2zsnwqybgcgxvqb4i	module 'ConditionalAppearanceModule' (DevExpress.ExpressApp.ConditionalAppearance.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.142	kfzv1rh2zsnwqybgcgxvqb4i	module 'ReportsModuleV2' (DevExpress.ExpressApp.ReportsV2.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.142	kfzv1rh2zsnwqybgcgxvqb4i	module 'ValidationModule' (DevExpress.ExpressApp.Validation.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.143	kfzv1rh2zsnwqybgcgxvqb4i	module 'CooperativaITModule' (CooperativaIT.Module). Local version: 1.0.6970.21889, Version on DB: 1.0.6970.21889
+31.01.19 12:09:52.144	kfzv1rh2zsnwqybgcgxvqb4i	module 'FileAttachmentsAspNetModule' (DevExpress.ExpressApp.FileAttachment.Web.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.145	kfzv1rh2zsnwqybgcgxvqb4i	module 'ReportsAspNetModuleV2' (DevExpress.ExpressApp.ReportsV2.Web.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.146	kfzv1rh2zsnwqybgcgxvqb4i	module 'CooperativaITAspNetModule' (CooperativaIT.Module.Web). Local version: 1.0.6970.21889, Version on DB: 1.0.6970.21889
+31.01.19 12:09:52.147	kfzv1rh2zsnwqybgcgxvqb4i	module 'SecurityModule' (DevExpress.ExpressApp.Security.v14.2). Local version: 14.2.4.0, Version on DB: 14.2.4.0
+31.01.19 12:09:52.150	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.151	kfzv1rh2zsnwqybgcgxvqb4i	Logon successful
+31.01.19 12:09:52.153	kfzv1rh2zsnwqybgcgxvqb4i	The FormsAuthentication timeout is less than the ASP.NET Session timeout: '10' and '20'. The ASP.NET Session timeout is used for FormsAuthentication.
+31.01.19 12:09:52.154	kfzv1rh2zsnwqybgcgxvqb4i		CurrentUserName: Admin
+31.01.19 12:09:52.155	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.156	kfzv1rh2zsnwqybgcgxvqb4i	Logon completed
+31.01.19 12:09:52.171	kfzv1rh2zsnwqybgcgxvqb4i	Action '16621e35-8862-4c87-948c-5b041cbb63b8' done
+31.01.19 12:09:52.172	kfzv1rh2zsnwqybgcgxvqb4i	Action 'Logon' done
+31.01.19 12:09:52.228	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.228	kfzv1rh2zsnwqybgcgxvqb4i	Initialize 'ShowNavigationItem' action items
+31.01.19 12:09:52.528	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:52.529	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:09:52.530	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+31.01.19 12:09:52.532	kfzv1rh2zsnwqybgcgxvqb4i		ID: ShowNavigationItem
+31.01.19 12:09:52.533	kfzv1rh2zsnwqybgcgxvqb4i		Category: ViewsNavigation
+31.01.19 12:09:52.534	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.SystemModule.ShowNavigationItemController
+31.01.19 12:09:52.535	kfzv1rh2zsnwqybgcgxvqb4i		SelectedItem: My Details
+31.01.19 12:09:52.562	kfzv1rh2zsnwqybgcgxvqb4i	Action 'ShowNavigationItem' done
+31.01.19 12:09:52.669	kfzv1rh2zsnwqybgcgxvqb4i	Save model changes
+31.01.19 12:09:52.671	kfzv1rh2zsnwqybgcgxvqb4i	===================
+31.01.19 12:09:54.755	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:54.758	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:09:54.760	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+31.01.19 12:09:54.761	kfzv1rh2zsnwqybgcgxvqb4i		ID: ShowNavigationItem
+31.01.19 12:09:54.762	kfzv1rh2zsnwqybgcgxvqb4i		Category: ViewsNavigation
+31.01.19 12:09:54.763	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.SystemModule.ShowNavigationItemController
+31.01.19 12:09:54.764	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Usuario
+31.01.19 12:09:54.765	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: True
+31.01.19 12:09:54.766	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 1
+31.01.19 12:09:54.767	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: CooperativaIT.Module.BusinessObjects.Seguridad.Usuario(ef7130dc-6a78-41a6-832d-0554fceecd64)
+31.01.19 12:09:54.769	kfzv1rh2zsnwqybgcgxvqb4i		SelectedItem: Encab Pagos
+31.01.19 12:09:54.930	kfzv1rh2zsnwqybgcgxvqb4i	Action 'ShowNavigationItem' done
+31.01.19 12:09:55.083	kfzv1rh2zsnwqybgcgxvqb4i	Save model changes
+31.01.19 12:09:55.085	kfzv1rh2zsnwqybgcgxvqb4i	===================
+31.01.19 12:09:59.680	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:09:59.683	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:09:59.684	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.ParametrizedAction
+31.01.19 12:09:59.685	kfzv1rh2zsnwqybgcgxvqb4i		ID: FullTextSearch
+31.01.19 12:09:59.686	kfzv1rh2zsnwqybgcgxvqb4i		Category: FullTextSearch
+31.01.19 12:09:59.687	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.SystemModule.FilterController
+31.01.19 12:09:59.688	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Encab Pagos
+31.01.19 12:09:59.689	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: True
+31.01.19 12:09:59.690	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 0
+31.01.19 12:09:59.691	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: <not specified>
+31.01.19 12:09:59.692	kfzv1rh2zsnwqybgcgxvqb4i		CurrentValue: mario
+31.01.19 12:10:00.028	kfzv1rh2zsnwqybgcgxvqb4i	Action 'FullTextSearch' done
+31.01.19 12:10:00.079	kfzv1rh2zsnwqybgcgxvqb4i	Save model changes
+31.01.19 12:10:00.082	kfzv1rh2zsnwqybgcgxvqb4i	===================
+31.01.19 12:10:02.117	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:10:02.120	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:10:02.121	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SimpleAction
+31.01.19 12:10:02.122	kfzv1rh2zsnwqybgcgxvqb4i		ID: Edit
+31.01.19 12:10:02.123	kfzv1rh2zsnwqybgcgxvqb4i		Category: Edit
+31.01.19 12:10:02.124	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.Web.SystemModule.ListViewController
+31.01.19 12:10:02.125	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Encab Pagos
+31.01.19 12:10:02.126	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: True
+31.01.19 12:10:02.127	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 1
+31.01.19 12:10:02.128	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: CooperativaIT.Module.Clases.EncabPagos(299c0cf3-4952-4f29-bd99-ae1941100a01)
+31.01.19 12:10:02.235	kfzv1rh2zsnwqybgcgxvqb4i	Action 'Edit' done
+31.01.19 12:10:02.339	kfzv1rh2zsnwqybgcgxvqb4i	Save model changes
+31.01.19 12:10:02.342	kfzv1rh2zsnwqybgcgxvqb4i	===================
+31.01.19 12:10:04.099	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:10:04.102	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:10:04.104	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+31.01.19 12:10:04.105	kfzv1rh2zsnwqybgcgxvqb4i		ID: New
+31.01.19 12:10:04.106	kfzv1rh2zsnwqybgcgxvqb4i		Category: ObjectsCreation
+31.01.19 12:10:04.107	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.Web.SystemModule.WebNewObjectViewController
+31.01.19 12:10:04.108	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Detalle Pagos
+31.01.19 12:10:04.109	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: False
+31.01.19 12:10:04.110	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 0
+31.01.19 12:10:04.111	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: <not specified>
+31.01.19 12:10:04.112	kfzv1rh2zsnwqybgcgxvqb4i		SelectedItem: Detalle Pagos
+31.01.19 12:10:04.127	kfzv1rh2zsnwqybgcgxvqb4i	Action 'New' done
+31.01.19 12:10:04.212	kfzv1rh2zsnwqybgcgxvqb4i	Save model changes
+31.01.19 12:10:04.214	kfzv1rh2zsnwqybgcgxvqb4i	===================
+31.01.19 12:10:25.731	kfzv1rh2zsnwqybgcgxvqb4i	'NumeroRecibo' property editor: new value is '9999'
+31.01.19 12:10:25.734	kfzv1rh2zsnwqybgcgxvqb4i	'FechaPago' property editor: new value is '26/12/2018 00:00:00'
+31.01.19 12:10:25.736	kfzv1rh2zsnwqybgcgxvqb4i	'TotalPagado' property editor: new value is '50'
+31.01.19 12:10:25.737	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:10:25.738	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:10:25.739	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SimpleAction
+31.01.19 12:10:25.740	kfzv1rh2zsnwqybgcgxvqb4i		ID: DialogOK
+31.01.19 12:10:25.741	kfzv1rh2zsnwqybgcgxvqb4i		Category: PopupActions
+31.01.19 12:10:25.742	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.SystemModule.DialogController
+31.01.19 12:10:25.744	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Detalle Pagos
+31.01.19 12:10:25.744	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: True
+31.01.19 12:10:25.745	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 1
+31.01.19 12:10:25.746	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: CooperativaIT.Module.Clases.DetallePagos(00000000-0000-0000-0000-000000000000)
+31.01.19 12:10:25.747	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:10:25.748	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:10:25.749	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SimpleAction
+31.01.19 12:10:25.750	kfzv1rh2zsnwqybgcgxvqb4i		ID: Save
+31.01.19 12:10:25.751	kfzv1rh2zsnwqybgcgxvqb4i		Category: Save
+31.01.19 12:10:25.751	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.Web.SystemModule.WebModificationsController
+31.01.19 12:10:25.752	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Detalle Pagos
+31.01.19 12:10:25.753	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: True
+31.01.19 12:10:25.754	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 1
+31.01.19 12:10:25.755	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: CooperativaIT.Module.Clases.DetallePagos(00000000-0000-0000-0000-000000000000)
+31.01.19 12:11:00.117	kfzv1rh2zsnwqybgcgxvqb4i	Action 'Save' done
+31.01.19 12:11:00.124	kfzv1rh2zsnwqybgcgxvqb4i	Action 'DialogOK' done
+31.01.19 12:11:00.454	kfzv1rh2zsnwqybgcgxvqb4i	Save model changes
+31.01.19 12:11:00.456	kfzv1rh2zsnwqybgcgxvqb4i	===================
+31.01.19 12:11:48.690	kfzv1rh2zsnwqybgcgxvqb4i	--------------------------------------------------------------------------------
+31.01.19 12:11:48.693	kfzv1rh2zsnwqybgcgxvqb4i	Execute action
+31.01.19 12:11:48.695	kfzv1rh2zsnwqybgcgxvqb4i		Type: DevExpress.ExpressApp.Actions.SimpleAction
+31.01.19 12:11:48.696	kfzv1rh2zsnwqybgcgxvqb4i		ID: Cancel
+31.01.19 12:11:48.696	kfzv1rh2zsnwqybgcgxvqb4i		Category: UndoRedo
+31.01.19 12:11:48.697	kfzv1rh2zsnwqybgcgxvqb4i		Controller.Name: DevExpress.ExpressApp.Web.SystemModule.WebModificationsController
+31.01.19 12:11:48.698	kfzv1rh2zsnwqybgcgxvqb4i		Context.Name: Encab Pagos
+31.01.19 12:11:48.699	kfzv1rh2zsnwqybgcgxvqb4i		Context.IsRoot: True
+31.01.19 12:11:48.700	kfzv1rh2zsnwqybgcgxvqb4i		Context.SelectedObjects.Count: 1
+31.01.19 12:11:48.701	kfzv1rh2zsnwqybgcgxvqb4i		Context.CurrentObject: CooperativaIT.Module.Clases.EncabPagos(299c0cf3-4952-4f29-bd99-ae1941100a01)
+31.01.19 12:11:48.811	kfzv1rh2zsnwqybgcgxvqb4i	Action 'Cancel' done
+31.01.19 12:11:48.963	kfzv1rh2zsnwqybgcgxvqb4i	Save model changes
+31.01.19 12:11:48.965	kfzv1rh2zsnwqybgcgxvqb4i	===================
+31.01.19 12:16:22.236	no context	--------------------------------------------------------------------------------
+31.01.19 12:16:22.236	no context	Logoff completed
+31.01.19 12:16:22.236	kfzv1rh2zsnwqybgcgxvqb4i	Dispose application
+31.01.19 12:16:22.236	kfzv1rh2zsnwqybgcgxvqb4i	====================
+31.01.19 12:16:22.238	kfzv1rh2zsnwqybgcgxvqb4i	Application is disposed
+31.01.19 12:16:22.238	kfzv1rh2zsnwqybgcgxvqb4i	========================

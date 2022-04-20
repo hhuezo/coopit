@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <ActionDesign>
+    <Actions>
+      <Action Id="Logon" ImageMode="UseActionImage" Caption="Log On" ShortCaption="Log On" ToolTip="Log On" ImageName="" />
+    </Actions>
+  </ActionDesign>
+  <BOModel>
+    <Class Name="DevExpress.ExpressApp.Web.LogonAttemptsAmountedToLimit" ImageName="" />
+    <Class Name="DevExpress.Persistent.AuditTrail.BaseAuditedObjectWeakReference" ImageName="ModelEditor_KeyProperty" />
+  </BOModel>
+  <CreatableItems>
+    <CreatableItem ClassName="CooperativaIT.Module.Clases.Creditos" ImageName="BO_Invoice" />
+  </CreatableItems>
+  <NavigationItems>
+    <Items>
+      <Item Id="Movimientos">
+        <Items>
+          <Item Id="EncabPagos_ListView" ImageName="Action_PivotChart_Data_Bind" Index="0" />
+          <Item Id="DetallePagos_ListView" Index="1" />
+          <Item Id="FondosEncab_ListView" ImageName="Action_WindowList" Index="2" />
+        </Items>
+      </Item>
+      <Item Id="Registro">
+        <Items>
+          <Item Id="Creditos_ListView" ImageName="BO_Sale" Index="0" />
+          <Item Id="Calificacion_ListView" ImageName="BO_State" Index="1" />
+          <Item Id="Comision_ListView" ImageName="Action_Workflow_ShowWorkflowInstances" />
+          <Item Id="persona_ListView" ImageName="BO_Person" />
+          <Item Id="TasaInteres_ListView" ImageName="BO_Security_Permission_Member" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="14.2.4.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="14.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="AuditDataItemPersistent_ListView" PageSize="100" />
+    <ListView Id="AuditDataItemPersistent_LookupListView" PageSize="100" />
+    <ListView Id="AuditedObjectWeakReference_AuditDataItems_ListView" PageSize="100" />
+    <ListView Id="AuditedObjectWeakReference_ListView" PageSize="100" />
+    <ListView Id="AuditedObjectWeakReference_LookupListView" PageSize="100" />
+    <ListView Id="BaseObject_ListView" PageSize="100" />
+    <ListView Id="BaseObject_LookupListView" PageSize="100" />
+    <ListView Id="Calificacion_ListView" PageSize="100" />
+    <ListView Id="Calificacion_LookupListView" PageSize="100" />
+    <ListView Id="Comision_ListView" PageSize="100" />
+    <ListView Id="Comision_LookupListView" PageSize="100" />
+    <ListView Id="Creditos_ListView" PageSize="100" />
+    <ListView Id="Creditos_LookupListView" PageSize="100" />
+    <DetailView Id="DetallePagos_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="DetallePagos">
+              <LayoutGroup Id="DetallePagos_col1">
+                <LayoutItem Id="AbonoCapital" Removed="True" />
+                <LayoutItem Id="AbonoIntereses" Removed="True" />
+              </LayoutGroup>
+              <LayoutGroup Id="DetallePagos_col2">
+                <LayoutItem Id="AbonoIntereses" ViewItem="AbonoIntereses" ShowCaption="" Index="0" IsNewNode="True" />
+                <LayoutItem Id="AbonoCapital" ViewItem="AbonoCapital" ShowCaption="" Index="1" IsNewNode="True" />
+                <LayoutItem Id="SaldoPendiente" Index="2" />
+                <LayoutItem Id="saldoActual" Index="3" />
+                <LayoutItem Id="SaldoPagar" Index="4" />
+                <LayoutItem Id="CantidaLetras" Index="5" />
+                <LayoutItem Id="FirmaContador" Index="6" />
+                <LayoutItem Id="Guardado" Index="7" />
+              </LayoutGroup>
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="DetallePagos_ListView" PageSize="100" />
+    <ListView Id="DetallePagos_LookupListView" PageSize="100" />
+    <ListView Id="EncabPagos_DetallePagos_ListView" PageSize="100" />
+    <ListView Id="EncabPagos_ListView" PageSize="100" />
+    <ListView Id="EncabPagos_LookupListView" PageSize="100" />
+    <ListView Id="FileAttachmentBase_ListView" PageSize="100" />
+    <ListView Id="FileAttachmentBase_LookupListView" PageSize="100" />
+    <ListView Id="FileData_ListView" PageSize="100" />
+    <ListView Id="FileData_LookupListView" PageSize="100" />
+    <ListView Id="FondosDetalle_ListView" PageSize="100" />
+    <ListView Id="FondosDetalle_LookupListView" PageSize="100" />
+    <ListView Id="FondosEncab_FondosDetalle_ListView" PageSize="100" />
+    <ListView Id="FondosEncab_ListView" PageSize="100" />
+    <ListView Id="FondosEncab_LookupListView" PageSize="100" />
+    <ListView Id="IRuleBaseProperties_ListView" PageSize="100" />
+    <ListView Id="IRuleBaseProperties_LookupListView" PageSize="100" />
+    <ListView Id="IRuleCollectionPropertyProperties_ListView" PageSize="100" />
+    <ListView Id="IRuleCollectionPropertyProperties_LookupListView" PageSize="100" />
+    <ListView Id="IRuleCombinationOfPropertiesIsUniqueProperties_ListView" PageSize="100" />
+    <ListView Id="IRuleCombinationOfPropertiesIsUniqueProperties_LookupListView" PageSize="100" />
+    <ListView Id="IRuleCriteriaProperties_ListView" PageSize="100" />
+    <ListView Id="IRuleCriteriaProperties_LookupListView" PageSize="100" />
+    <DetailView Id="LogonAttemptsAmountedToLimit_DetailView" Caption="Log On" ImageName="BO_Security_Permission">
+      <Items>
+        <StaticImage Id="LogonImage" ImageName="BO_User" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="RootGroup">
+          <LayoutItem Id="LogonImage" ToolTip="" ViewItem="" />
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="LogonAttemptsAmountedToLimit_ListView" PageSize="50" />
+    <ListView Id="LogonAttemptsAmountedToLimit_LookupListView" MasterDetailMode="ListViewAndDetailView" PageSize="100" />
+    <ListView Id="ModelDifference_Aspects_ListView" PageSize="100" />
+    <ListView Id="ModelDifference_ListView" PageSize="100" />
+    <ListView Id="ModelDifference_LookupListView" PageSize="100" />
+    <ListView Id="ModelDifferenceAspect_ListView" PageSize="100" />
+    <ListView Id="ModelDifferenceAspect_LookupListView" PageSize="100" />
+    <DetailView Id="ParameterlessLogonFailedInfo_DefaultDetailView">
+      <Items>
+        <StaticImage Id="Image" ImageName="Action_Security_ChangePassword" />
+      </Items>
+      <Layout>
+        <LayoutGroup Id="RootGroup" ImageName="BO_Phone" />
+      </Layout>
+    </DetailView>
+    <ListView Id="ParametroSocio_ListView" PageSize="100" />
+    <ListView Id="ParametroSocio_LookupListView" PageSize="100" />
+    <ListView Id="persona_ListView" PageSize="100" />
+    <ListView Id="persona_LookupListView" PageSize="100" PreviewColumnName="" />
+    <ListView Id="ReportDataV2_ListView" PageSize="100" />
+    <ListView Id="ReportDataV2_LookupListView" PageSize="100" />
+    <ListView Id="TasaInteres_ListView" PageSize="100" />
+    <ListView Id="TasaInteres_LookupListView" PageSize="100" />
+  </Views>
+</Application>

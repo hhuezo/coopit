@@ -1,0 +1,75 @@
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\Model.xafml
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe.config
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.pdb
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.dll
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.dll
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.pdb
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.pdb
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csprojResolveAssemblyReference.cache
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.Properties.Resources.resources
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.CooperativaITWindowsFormsApplication.resources
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csproj.GenerateResource.Cache
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.pdb
+C:\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe.licenses
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\Model.xafml
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe.config
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.pdb
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.dll
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.dll
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.pdb
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.pdb
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csprojResolveAssemblyReference.cache
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.Properties.Resources.resources
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.CooperativaITWindowsFormsApplication.resources
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csproj.GenerateResource.Cache
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe.licenses
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe
+C:\BKMaryland03052017\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.pdb
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.Properties.Resources.resources
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.CooperativaITWindowsFormsApplication.resources
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csproj.GenerateResource.Cache
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe.licenses
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\Model.xafml
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe.config
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.pdb
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.dll
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.dll
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.pdb
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.pdb
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csprojResolveAssemblyReference.cache
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe
+G:\BKMaryland01062018\CooperativaIT\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\Model.xafml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.CooperativaITWindowsFormsApplication.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe.licenses
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe.config
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.pdb
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\Model.xafml
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.exe
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Win.pdb
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.dll
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.dll
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.Win.pdb
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\bin\Debug\CooperativaIT.Module.pdb
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csprojResolveAssemblyReference.cache
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.Properties.Resources.resources
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.CooperativaITWindowsFormsApplication.resources
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.csproj.GenerateResource.Cache
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Win\obj\Debug\CooperativaIT.Win.exe.licenses

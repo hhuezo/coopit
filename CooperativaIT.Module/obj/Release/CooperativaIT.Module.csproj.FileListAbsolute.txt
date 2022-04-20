@@ -1,0 +1,10 @@
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\bin\Release\CooperativaIT.Module.dll
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\bin\Release\CooperativaIT.Module.pdb
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.csprojResolveAssemblyReference.cache
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.Controllers.CalculoInt.resources
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.Controllers.TotalSocios.resources
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.CooperativaITModule.resources
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.csproj.GenerateResource.Cache
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.dll.licenses
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.dll
+C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module\obj\Release\CooperativaIT.Module.pdb
