@@ -8,3 +8,13 @@ C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaI
 C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.dll.licenses
 C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.dll
 C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\bin\Release\CooperativaIT.Module.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\bin\Release\CooperativaIT.Module.Web.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\bin\Release\CooperativaIT.Module.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\bin\Release\CooperativaIT.Module.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.CooperativaITAspNetModule.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.dll.licenses
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Module.Web\obj\Release\CooperativaIT.Module.Web.pdb

@@ -59,6 +59,8 @@ namespace CooperativaIT.Module.Clases
         [ImmediatePostData]
 
 
+
+        [RuleUniqueValue]
         [DataSourceCriteria("EstadoCredito=1")]
         public Creditos referenciaCredito
         {
@@ -223,6 +225,20 @@ namespace CooperativaIT.Module.Clases
 
 
 
+
+        protected override void OnSaving()
+        {
+
+            if(this.Session.IsNewObject(this) && !ReferenceEquals(referenciaCredito, null))
+            {
+                var ListPagos = Session.Query<EncabPagos>().Where(f => f.referenciaCredito == this.referenciaCredito).ToList();
+                if (ListPagos.Count > 0)
+                {
+                    throw new UserFriendlyException(message: "Ya existe un pago vinculado a este credito");
+                }                
+            }           
+            
+        }
      
     
     }

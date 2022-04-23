@@ -8,6 +8,22 @@
   <BOModel>
     <Class Name="DevExpress.Xpo.PersistentBase" DefaultListViewShowAutoFilterRow="True" />
   </BOModel>
+  <NavigationItems StartupNavigationItem="">
+    <Items>
+      <Item Id="Movimientos" Index="0">
+        <Items>
+          <Item Id="EncabPagos_ListView" Index="0" />
+          <Item Id="Creditos_ListView" Index="1" />
+          <Item Id="DetallePagos_ListView" Index="2" />
+          <Item Id="FondosDetalle_ListView" Index="3" />
+        </Items>
+      </Item>
+      <Item Id="Configuración" Index="1" />
+      <Item Id="Registro" Index="2" />
+      <Item Id="Reports" Index="3" />
+      <Item Id="Default" Index="4" />
+    </Items>
+  </NavigationItems>
   <SchemaModules>
     <SchemaModule Name="SystemModule" Version="14.2.4.0" IsNewNode="True" />
   </SchemaModules>
@@ -18,6 +34,11 @@
         <ColumnInfo Id="NumeroCuentas" Index="2" />
       </Columns>
     </ListView>
+    <ListView Id="Creditos_ListView">
+      <Columns>
+        <ColumnInfo Id="ReferenciaCredito" SortOrder="Descending" />
+      </Columns>
+    </ListView>
     <ListView Id="DetallePagos_ListView">
       <Columns>
         <ColumnInfo Id="correla" SortIndex="0" SortOrder="Ascending" Width="66" ImmediatePostData="False" />
@@ -26,6 +47,11 @@
     <ListView Id="DetallePagos_LookupListView" ShowAutoFilterRow="True">
       <Columns>
         <ColumnInfo Id="correla" SortIndex="0" SortOrder="Descending" />
+      </Columns>
+    </ListView>
+    <ListView Id="EncabPagos_ListView">
+      <Columns>
+        <ColumnInfo Id="referenciaCredito" SortOrder="Descending" />
       </Columns>
     </ListView>
     <DetailView Id="PersistentBase_DetailView" FreezeLayout="True">

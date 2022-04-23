@@ -22,7 +22,7 @@ using CoopertativaIT.Module.BusinessObjects.Clases;
 namespace CooperativaIT.Module.Clases
 {
     [DefaultClassOptions]
-    [NavigationItem("Registro")]
+    [NavigationItem("Movimientos")]
     [FriendlyKeyProperty("ReferenciaCredito")]
     [Appearance("CategoryColoredInListView", AppearanceItemType = "ViewItem", TargetItems = "EstadoCredito",
     Criteria = "EstadoCredito = 2" , Context = "ListView", FontColor = "green", Priority = 1)]
@@ -41,6 +41,15 @@ namespace CooperativaIT.Module.Clases
         }
         public override void AfterConstruction()
         {
+
+            if (this.Session.IsNewObject(this))
+            {
+                DateTime fecha = DateTime.Now;
+                if (FechaOtorgamiento.Year == 1)
+                {
+                    this.FechaOtorgamiento = fecha;
+                }
+            }
 
             if (ReferenceEquals(this.ReferenciaCredito, null))
                {
@@ -439,16 +448,44 @@ namespace CooperativaIT.Module.Clases
         
         
         
-        
+        private void generarPago()
+        {
+            if (this.Session.IsNewObject(this) && !ReferenceEquals(CodigoBeneficiario, null))
+            {
+                if (!ReferenceEquals(ReferenciaCredito, null))
+                {
+                    BinaryOperator binaryReferencia = new BinaryOperator("referenciaCredito.ReferenciaCredito", ReferenciaCredito);
+                    EncabPagos pago = this.Session.FindObject<EncabPagos>(binaryReferencia);
+                    if (ReferenceEquals(pago, null))
+                    {
+                        EncabPagos obj = new EncabPagos(Session);
+                        obj.referenciaCredito = this;
+                        obj.nombres = CodigoBeneficiario.nombres + ' ' + CodigoBeneficiario.apellidos;
+                        obj.tipo = CodigoBeneficiario.Clasificacion;
+                        obj.CapitalOtorgado = this.CapitalOtorgado;
+                        obj.FechaOtorgamiento = this.FechaOtorgamiento;
+                        obj.EstadoCredito = BusinessObjects.Enums.EstadoCredito.Activo;
+                        obj.CantidaLetras = this.CantidaLetras;
+                        obj.Save();
+                    }
+
+                }
+            }
+        }
         
         protected override void OnSaving()
         {
+
+           
+             
+
             if (!ReferenceEquals(CodigoBeneficiario, null))
             {
 
                 Calculo();
                 correlativo();
-                //GrabarEncab();
+
+               
 
             }
         }

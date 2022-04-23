@@ -11,3 +11,16 @@ C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaI
 C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.dll.licenses
 C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.dll
 C:\Users\hhuezo\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\bin\CooperativaIT.Web.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\bin\CooperativaIT.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\bin\CooperativaIT.Web.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\bin\CooperativaIT.Module.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\bin\CooperativaIT.Module.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\bin\CooperativaIT.Module.Web.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\bin\CooperativaIT.Module.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.CooperativaITAspNetApplication.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.dll.licenses
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CooperativaIT\CooperativaIT.Web\obj\Release\CooperativaIT.Web.pdb

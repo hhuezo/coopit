@@ -428,6 +428,31 @@ namespace CooperativaIT.Module.Controllers
              }*/
         }
 
+        private void CrearPago_Execute(object sender, SimpleActionExecuteEventArgs e)
+        {
+            Creditos credito = (Creditos)e.CurrentObject;
+
+            BinaryOperator binaryReferencia = new BinaryOperator("referenciaCredito", credito);
+            EncabPagos pago = this.ObjectSpace.FindObject<EncabPagos>(binaryReferencia);
+            if (ReferenceEquals(pago, null))
+            {
+                EncabPagos obj = this.ObjectSpace.CreateObject<EncabPagos>();
+                obj.referenciaCredito = credito;
+                obj.nombres = credito.CodigoBeneficiario.nombres + ' ' + credito.CodigoBeneficiario.apellidos;
+                obj.tipo = credito.CodigoBeneficiario.Clasificacion;
+                obj.CapitalOtorgado = credito.CapitalOtorgado;
+                obj.FechaOtorgamiento = credito.FechaOtorgamiento;
+                obj.EstadoCredito = BusinessObjects.Enums.EstadoCredito.Activo;
+                obj.CantidaLetras = credito.CantidaLetras;
+                this.ObjectSpace.CommitChanges();
+            }
+            else
+            {
+                throw new UserFriendlyException(message: "Este credito ya fue asignado a un pago");
+
+            }
+        }
+
     }
 }  
 

@@ -30,6 +30,7 @@ namespace CooperativaIT.Module.Controllers
         {
             this.components = new System.ComponentModel.Container();
             this.CalcularInt = new DevExpress.ExpressApp.Actions.SimpleAction(this.components);
+            this.CrearPago = new DevExpress.ExpressApp.Actions.SimpleAction(this.components);
             // 
             // CalcularInt
             // 
@@ -43,14 +44,27 @@ namespace CooperativaIT.Module.Controllers
             this.CalcularInt.TypeOfView = typeof(DevExpress.ExpressApp.DetailView);
             this.CalcularInt.Execute += new DevExpress.ExpressApp.Actions.SimpleActionExecuteEventHandler(this.CalcularInt_Execute);
             // 
+            // CrearPago
+            // 
+            this.CrearPago.Caption = "Crear pago";
+            this.CrearPago.ConfirmationMessage = "Desea crear el pago?";
+            this.CrearPago.Id = "41d81864-ee23-4e35-a929-19faf8ea0b92";
+            this.CrearPago.TargetObjectType = typeof(CooperativaIT.Module.Clases.Creditos);
+            this.CrearPago.TargetViewType = DevExpress.ExpressApp.ViewType.DetailView;
+            this.CrearPago.ToolTip = null;
+            this.CrearPago.TypeOfView = typeof(DevExpress.ExpressApp.DetailView);
+            this.CrearPago.Execute += new DevExpress.ExpressApp.Actions.SimpleActionExecuteEventHandler(this.CrearPago_Execute);
+            // 
             // CalculoInt
             // 
             this.Actions.Add(this.CalcularInt);
+            this.Actions.Add(this.CrearPago);
 
         }
 
         #endregion
 
         private DevExpress.ExpressApp.Actions.SimpleAction CalcularInt;
+        private DevExpress.ExpressApp.Actions.SimpleAction CrearPago;
     }
 }
